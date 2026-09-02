@@ -122,7 +122,7 @@ export default function Blog() {
         <div className="container">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h3 className="font-bold mb-4">Eletricista em Campinas</h3>
+              <h3 className="font-bold mb-4">Eletricista em Sumaré</h3>
               <p className="text-blue-200 text-sm">Serviços elétricos profissionais com mais de 20 anos de experiência.</p>
             </div>
             <div>
@@ -134,7 +134,7 @@ export default function Blog() {
             </div>
             <div>
               <h4 className="font-semibold mb-3">Localização</h4>
-              <p className="text-blue-200 text-sm">Campinas, SP</p>
+              <p className="text-blue-200 text-sm">Sumaré, SP</p>
               <p className="text-blue-200 text-sm">Atendemos toda a região</p>
             </div>
             <div>
